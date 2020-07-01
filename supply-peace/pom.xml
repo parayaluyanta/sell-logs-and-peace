@@ -9,7 +9,7 @@
     <properties>
         <json-encoder.version>2.9.9</json-encoder.version>
         <json-encoder.version1>2.9.10.4</json-encoder.version1>        
-        <log4j-core.version>2.12.0</log4j-core.version>
+        <log4j-core.version>2.13.3</log4j-core.version>
     </properties>
 
     <name>supply logger</name>
